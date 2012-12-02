@@ -10,7 +10,7 @@ author :
 navigation :
   - archive.html
   - tags.html
-  - bash.md
+  - projects/bash.md
   - categories.html
   - pages.html
   - about.md
