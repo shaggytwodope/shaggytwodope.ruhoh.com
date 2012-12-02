@@ -7,6 +7,15 @@ description: Some stuff for bash, parhaps some zsh stuff as well.
 Some Content
 
 
+`#!/bin/bash
+
+echo `mplayer -fs -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g --cookies /tmp/cookie.txt "$@")`
+
+
+`
+
+
+
 `<code>` spans are delimited
 by backticks.
 
