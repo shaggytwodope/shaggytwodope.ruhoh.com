@@ -1,15 +1,16 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Shaggys Dope Blog
+tagline: Home For My Random Thoughts
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Shaggy TwoDope
+  email : twodopeshaggy@gmail.com
+  github : twodopeshaggy
+  twitter : shaggy_twodope
   feedburner : feedname
 
 navigation :
   - archive.html
   - tags.html
+  - bash.md
   - categories.html
   - pages.html
   - about.md
