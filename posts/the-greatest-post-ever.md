@@ -29,3 +29,16 @@ Trying to learn how the formatting works, So using back ticks is totaly cool, go
       echo ""
       fi
     fi
+````
+
+#The section#
+
+The Section with actualy can output text for new mail or none, overever it's been edited out for use in conky.
+Merely to give an audio sound.
+
+````
+      if [ $nbmail != 0 ]; then
+        echo ""
+        `mplayer2 ~/sounds/mailmf.wav`
+      else
+      echo ""
